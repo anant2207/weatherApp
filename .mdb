@@ -1,0 +1,8 @@
+{
+  "projectName": "weatherapp",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "cce023d3"
+}
